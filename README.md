@@ -1,5 +1,8 @@
 # Getting Started with Create React App
 
+
+Changes: + 7 | - 12.53
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
